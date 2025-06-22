@@ -15,9 +15,9 @@ A clean, stylish, and fully responsive website for a coffee shop, built using **
 - ✅ Navigation bar with smooth anchor links
 - ✅ Minimalist aesthetic using modern fonts and layout
 
-  ## 📁 Project Structure
+## 📁 Project Structure
 
-```bash
+
 📦 coffee-shop-site/
 ├── index.html
 ├── style.css
@@ -26,7 +26,8 @@ A clean, stylish, and fully responsive website for a coffee shop, built using **
 │   ├── menu.jpg
 │   ├── about.jpg
 │   ├── location.jpg
-│   └── logo.svg
+    └── logo.svg
+    
 
 ## 🔧 Built With
 - HTML5
@@ -36,10 +37,10 @@ A clean, stylish, and fully responsive website for a coffee shop, built using **
 - Google Maps iframe integration
 - jQuery (optional enhancement)
 
-### 📸 Preview
+## 📸 Preview
 - https://github.com/Nilasi01/Coffee_Shop/blob/main/-Desktop-Coffee-Shop.png
 
-# 🗺️ Location Example
+## 🗺️ Location Example
 1705, Gosho, Ichihara-shi, Chiba 290-0066
 ⏰ Open 7 Days a Week – 9:00am to 10:00pm
 ☎️ Tel: 0436-98-6688
